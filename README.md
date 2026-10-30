@@ -1,2 +1,2 @@
-# placar-henry-tais
-Placar de treino competitivo de pickleball.
+# Treino Henry e Taís
+Placar de treino competitivo de Pickleball.
